@@ -1,60 +1,62 @@
-# CHEA – The Meme Token That Never Launched 🐶
+# CHEA – The Meme Token That Never Launched 🐶💤
 
-This repository documents a meme token experiment built around my French bulldog, Chea.
+This project documents the early attempt at building a meaningful meme token around my real French Bulldog, Chea.
 
-Inspired by BobCat (PSPS) and their shelter support efforts,  
-CHEA was intended to be a community-driven, purpose-first project —  
-with real utility, social meaning, and a sprinkle of chaos.
-
-It never launched. But we built everything anyway.
+Inspired by BobCat (PSPS) and their animal shelter efforts, CHEA aimed to combine blockchain, community-driven charity, and storytelling into a single token. It never launched — but we wrote and built everything anyway.
 
 ---
 
-## 💡 What Was the Plan?
+## 🚧 Why It Never Launched
 
-- Smart contract written in Rust (Solana-compatible)
-- MultiSig admin system (2/3 confirmations)
-- Reentrancy guard
-- Max %1 tx and burn limits
+It grew too fast too soon.  
+The scope was ambitious for a two-member team — just me and my AI sidekick, ChatGPT.
+
+CHEA taught us more than any successful launch ever could.
+
+---
+
+## 💡 What Was Planned
+
+- Smart contract in Rust (Solana)
+- Max transaction & burn limits: 1%
 - Fee breakdown:
-  - 1% Fee
-  - 1% Burn
-  - 1% Liquidity
-  - 1% Charity
-- Secret website-based airdrop system (with hidden clues!)
+  - 1% Burn  
+  - 1% Liquidity  
+  - 1% Charity  
+  - 1% Treasury
+- MultiSig admin (2/3 confirmation)
+- Secret airdrop system triggered by website-based easter eggs
 
 ---
 
-## 👨‍🚀 Who Built It?
+## 👨‍🚀 Who Built This?
 
-Just two of us:
-- 🧠 Human (me): Vision, structure, stubborn optimism
-- 🤖 AI (ChatGPT): Smart contract design, security ideas, endless patience
+- 🧠 Human (me): Vision, strategy, trial & error
+- 🤖 AI (ChatGPT): Smart contract logic, architecture, infinite patience
 
 ---
 
-## 📂 What's in This Repo?
+## 📂 What's Inside
 
 | Folder/File | Description |
 |-------------|-------------|
-| `contracts/lib.rs` | Original Rust smart contract source |
-| `docs/Chea Project Summary.pdf` | Full project breakdown — tokenomics, structure, strategy |
-| `media/` (optional) | Logos, visuals, memes (if any) |
+| `/contracts/lib.rs` | Original Rust smart contract |
+| `/docs/chea-project-summary.pdf` | Tokenomics, structure, and development notes |
+| `/media/` (optional) | Future visual assets, if any |
 
 ---
 
-## ❗ Important Note
+## 🔎 Additional Notes
 
-This is not a working codebase.  
-It's a public archive of a non-launched, learning-heavy project.
-
-Feel free to fork, read, remix, laugh at it — or maybe learn something.
+- Telegram/Discord were intentionally excluded to keep the community dynamic experimental
+- Project was originally part of a broader journey documented at:  
+  [https://x.com/CptOverDraft](https://x.com/CptOverDraft)
 
 ---
 
 ## 📜 License
 
-MIT — because if it’s broken, at least it’s free.
+MIT — free to use, remix, or abandon like we did. No guarantees, no expectations.
 
 ---
 
