@@ -18,6 +18,7 @@ CHEA taught us more than any successful launch ever could.
 ## 💡 What Was Planned
 
 - Smart contract in Rust (Solana)
+- 👉 Smart contract source: [contracts/lib.rs](contracts/lib.rs)
 - Max transaction & burn limits: 1%
 - Fee breakdown:
   - 1% Burn  
