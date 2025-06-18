@@ -41,8 +41,6 @@ CHEA taught us more than any successful launch ever could.
 | Folder/File | Description |
 |-------------|-------------|
 | `/contracts/lib.rs` | Original Rust smart contract |
-| `/docs/chea-project-summary.pdf` | Tokenomics, structure, and development notes |
-| `/media/` (optional) | Future visual assets, if any |
 
 ---
 
